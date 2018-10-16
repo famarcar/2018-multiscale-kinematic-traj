@@ -512,3 +512,179 @@
 	<math.h>
 	<sstream>
 
+1537544000 source:/home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/BoWK_Building/BoKW_Codebook.cpp
+	<iostream>
+	<fstream>
+	<opencv2/opencv.hpp>
+	"BoKW_Codebook.h"
+	"../Resources/Matrixmanage.h"
+	"../Resources/GeneralFunctions.h"
+	"../TrajManage/MatricialTrajectoryManage.h"
+
+1514295668 /home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/BoWK_Building/BoKW_Codebook.h
+	<opencv2/opencv.hpp>
+
+1454962128 /home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/Resources/Matrixmanage.h
+	<opencv2/opencv.hpp>
+
+1467365512 /home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/Resources/GeneralFunctions.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<opencv2/opencv.hpp>
+
+1528296188 /home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/TrajManage/MatricialTrajectoryManage.h
+
+1528381862 source:/home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/BoWK_Building/BoWHistMatrix.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<math.h>
+	<cstdlib>
+	<vector>
+	<opencv2/opencv.hpp>
+	<opencv2/features2d/features2d.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc_c.h>
+	<opencv2/legacy/legacy.hpp>
+	"BoKW_Codebook.h"
+	"BoWHistMatrix.h"
+	"../Resources/Matrixmanage.h"
+	"../Resources/GeneralFunctions.h"
+	"../TrajManage/MatricialTrajectoryManage.h"
+
+1528296192 /home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/BoWK_Building/BoWHistMatrix.h
+
+1528296194 source:/home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/KinematicPrimitives/KinematicFeatures.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<math.h>
+	<cstdlib>
+	<vector>
+	<opencv2/opencv.hpp>
+
+1454406810 source:/home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/KinematicPrimitives/OnlyKinematics.cpp
+	<iostream>
+	<math.h>
+	"OnlyKinematics.h"
+	<opencv2/opencv.hpp>
+
+1446627842 /home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/KinematicPrimitives/OnlyKinematics.h
+
+1528296194 source:/home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/KinematicPrimitives/RecursiveMSByFeat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<math.h>
+	<cstdlib>
+	<vector>
+	<opencv2/opencv.hpp>
+	"KinematicFeatures.h"
+
+1428056506 /home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/KinematicPrimitives/KinematicFeatures.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<math.h>
+	<cstdlib>
+	<vector>
+	<opencv2/opencv.hpp>
+
+1537543724 source:/home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/Principal/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<math.h>
+	<cstdlib>
+	<vector>
+	<time.h>
+	"params.h"
+	<opencv2/opencv.hpp>
+	<opencv2/features2d/features2d.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc_c.h>
+	<opencv2/legacy/legacy.hpp>
+	"../BoWK_Building/BoKW_Codebook.h"
+	"../BoWK_Building/BoWHistMatrix.h"
+	"../Resources/GeneralFunctions.h"
+
+1466780912 /home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/Principal/params.h
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<vector>
+
+1537543944 source:/home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/Principal/params.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<vector>
+	<math.h>
+	<sstream>
+
+1514296120 source:/home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/Resources/GeneralFunctions.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<fstream>
+	<opencv2/opencv.hpp>
+
+1528296190 source:/home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/Resources/Matrixmanage.cpp
+	<opencv2/opencv.hpp>
+	<stdio.h>
+
+1514370064 source:/home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/TrajManage/MatricialTrajectoryManage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"../Resources/Matrixmanage.h"
+	"../Resources/GeneralFunctions.h"
+	"MatricialTrajectoryManage.h"
+	"../KinematicPrimitives/RecursiveMSByFeat.h"
+	"../KinematicPrimitives/OnlyKinematics.h"
+
+1430813712 /home/fmartinezc/main/research/code/2018-AR-multiscaleKinematic/C++_codeMultialpha/KinematicPrimitives/RecursiveMSByFeat.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<math.h>
+	<cstdlib>
+	<vector>
+	<opencv2/opencv.hpp>
+

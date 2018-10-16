@@ -10,7 +10,8 @@ using namespace std;
 
 
 
-string root                       = "/home/fmartinezc/Datasets/UT";
+string root                       = "/home/fmartinezc/main/datasets/UT/"; //laptop
+//string root                       = "/home/fmartinezc/Datasets/UT"; //oficce
 //string root                       = "/home/fmartinezc/Datasets/KTH";
 
 //string str_path_train_c           = root +  "/ConfigurationFiles/KTH_trainingSeq1.txt";
