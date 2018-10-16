@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="KTH_multiAlpha_2017-12-19" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/KTH_multiAlpha_2017-12-19" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="/usr/local/include/opencv" />
+					<Add directory="/usr/local/include" />
+				</Compiler>
+				<Linker>
+					<Add option="/usr/local/lib/libopencv_calib3d.so /usr/local/lib/libopencv_contrib.so /usr/local/lib/libopencv_core.so /usr/local/lib/libopencv_features2d.so /usr/local/lib/libopencv_flann.so /usr/local/lib/libopencv_gpu.so /usr/local/lib/libopencv_highgui.so /usr/local/lib/libopencv_imgproc.so /usr/local/lib/libopencv_legacy.so /usr/local/lib/libopencv_ml.so /usr/local/lib/libopencv_nonfree.so /usr/local/lib/libopencv_objdetect.so /usr/local/lib/libopencv_ocl.so /usr/local/lib/libopencv_photo.so /usr/local/lib/libopencv_stitching.so /usr/local/lib/libopencv_superres.so /usr/local/lib/libopencv_ts.a /usr/local/lib/libopencv_video.so /usr/local/lib/libopencv_videostab.so /usr/local/lib/libopencv_viz.so /usr/lib/x86_64-linux-gnu/libXext.so /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libICE.so /usr/lib/x86_64-linux-gnu/libSM.so /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so -lrt -lpthread -lm -ldl" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/KTH_multiAlpha_2017-12-19" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="BoWK_Building/BoKW_Codebook.cpp" />
+		<Unit filename="BoWK_Building/BoKW_Codebook.h" />
+		<Unit filename="BoWK_Building/BoWHistMatrix.cpp" />
+		<Unit filename="BoWK_Building/BoWHistMatrix.h" />
+		<Unit filename="KinematicPrimitives/KinematicFeatures.cpp" />
+		<Unit filename="KinematicPrimitives/KinematicFeatures.h" />
+		<Unit filename="KinematicPrimitives/OnlyKinematics.cpp" />
+		<Unit filename="KinematicPrimitives/OnlyKinematics.h" />
+		<Unit filename="KinematicPrimitives/RecursiveMSByFeat.cpp" />
+		<Unit filename="KinematicPrimitives/RecursiveMSByFeat.h" />
+		<Unit filename="Principal/main.cpp" />
+		<Unit filename="Principal/params.cpp" />
+		<Unit filename="Principal/params.h" />
+		<Unit filename="Resources/GeneralFunctions.cpp" />
+		<Unit filename="Resources/GeneralFunctions.h" />
+		<Unit filename="Resources/Matrixmanage.cpp" />
+		<Unit filename="Resources/Matrixmanage.h" />
+		<Unit filename="TrajManage/MatricialTrajectoryManage.cpp" />
+		<Unit filename="TrajManage/MatricialTrajectoryManage.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
